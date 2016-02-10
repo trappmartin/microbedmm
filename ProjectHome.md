@@ -1,0 +1,1 @@
+We developed a suite of programs, MicrobeDMM, for empirical Bayes fitting of DMM models. This includes approximate Bayesian hypothesis testing that accounts for model complexity through hyper-parameter marginalization.
